@@ -1,7 +1,0 @@
-C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C#\EXE_01Soma\EXE_01Soma\bin\Debug\EXE_01Soma.exe.config
-C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C#\EXE_01Soma\EXE_01Soma\bin\Debug\EXE_01Soma.exe
-C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C#\EXE_01Soma\EXE_01Soma\bin\Debug\EXE_01Soma.pdb
-C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C#\EXE_01Soma\EXE_01Soma\obj\Debug\EXE_01Soma.csproj.AssemblyReference.cache
-C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C#\EXE_01Soma\EXE_01Soma\obj\Debug\EXE_01Soma.csproj.CoreCompileInputs.cache
-C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C#\EXE_01Soma\EXE_01Soma\obj\Debug\EXE_01Soma.exe
-C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C#\EXE_01Soma\EXE_01Soma\obj\Debug\EXE_01Soma.pdb
