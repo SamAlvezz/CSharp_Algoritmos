@@ -1,0 +1,14 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\bin\Debug\EXE_03_Consumo_automóvel.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\bin\Debug\EXE_03_Consumo_automóvel.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\bin\Debug\EXE_03_Consumo_automóvel.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\obj\Debug\EXE_03_Consumo_automóvel.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\obj\Debug\EXE_03_Consumo_automóvel.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\obj\Debug\EXE_03_Consumo_automóvel.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\obj\Debug\EXE_03_Consumo_automóvel.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\bin\Debug\EXE_03_Consumo_automóvel.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\bin\Debug\EXE_03_Consumo_automóvel.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\bin\Debug\EXE_03_Consumo_automóvel.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\obj\Debug\EXE_03_Consumo_automóvel.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\obj\Debug\EXE_03_Consumo_automóvel.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\obj\Debug\EXE_03_Consumo_automóvel.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_03_Consumo_automóvel\EXE_03_Consumo_automóvel\obj\Debug\EXE_03_Consumo_automóvel.pdb

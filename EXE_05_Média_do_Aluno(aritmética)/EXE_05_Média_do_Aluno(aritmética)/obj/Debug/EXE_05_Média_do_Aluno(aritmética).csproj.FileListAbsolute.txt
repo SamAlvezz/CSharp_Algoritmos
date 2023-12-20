@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_05_Média_do_Aluno(aritmética)\EXE_05_Média_do_Aluno(aritmética)\bin\Debug\EXE_05_Média_do_Aluno(aritmética).exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_05_Média_do_Aluno(aritmética)\EXE_05_Média_do_Aluno(aritmética)\bin\Debug\EXE_05_Média_do_Aluno(aritmética).exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_05_Média_do_Aluno(aritmética)\EXE_05_Média_do_Aluno(aritmética)\bin\Debug\EXE_05_Média_do_Aluno(aritmética).pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_05_Média_do_Aluno(aritmética)\EXE_05_Média_do_Aluno(aritmética)\obj\Debug\EXE_05_Média_do_Aluno(aritmética).csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_05_Média_do_Aluno(aritmética)\EXE_05_Média_do_Aluno(aritmética)\obj\Debug\EXE_05_Média_do_Aluno(aritmética).csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_05_Média_do_Aluno(aritmética)\EXE_05_Média_do_Aluno(aritmética)\obj\Debug\EXE_05_Média_do_Aluno(aritmética).exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_05_Média_do_Aluno(aritmética)\EXE_05_Média_do_Aluno(aritmética)\obj\Debug\EXE_05_Média_do_Aluno(aritmética).pdb

@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\bin\Debug\EXE_04_Comissão_de_Vendas.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\bin\Debug\EXE_04_Comissão_de_Vendas.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\bin\Debug\EXE_04_Comissão_de_Vendas.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\obj\Debug\EXE_04_Comissão_de_Vendas.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\obj\Debug\EXE_04_Comissão_de_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\obj\Debug\EXE_04_Comissão_de_Vendas.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas\obj\Debug\EXE_04_Comissão_de_Vendas.pdb

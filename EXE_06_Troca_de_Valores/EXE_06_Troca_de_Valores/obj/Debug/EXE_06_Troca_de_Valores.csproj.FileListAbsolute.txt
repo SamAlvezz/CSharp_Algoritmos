@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_06_Troca_de_Valores\EXE_06_Troca_de_Valores\bin\Debug\EXE_06_Troca_de_Valores.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_06_Troca_de_Valores\EXE_06_Troca_de_Valores\bin\Debug\EXE_06_Troca_de_Valores.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_06_Troca_de_Valores\EXE_06_Troca_de_Valores\bin\Debug\EXE_06_Troca_de_Valores.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_06_Troca_de_Valores\EXE_06_Troca_de_Valores\obj\Debug\EXE_06_Troca_de_Valores.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_06_Troca_de_Valores\EXE_06_Troca_de_Valores\obj\Debug\EXE_06_Troca_de_Valores.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_06_Troca_de_Valores\EXE_06_Troca_de_Valores\obj\Debug\EXE_06_Troca_de_Valores.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_06_Troca_de_Valores\EXE_06_Troca_de_Valores\obj\Debug\EXE_06_Troca_de_Valores.pdb

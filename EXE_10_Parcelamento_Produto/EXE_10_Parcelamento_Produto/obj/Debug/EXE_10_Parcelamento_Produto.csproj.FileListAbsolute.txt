@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_10_Parcelamento_Produto\EXE_10_Parcelamento_Produto\bin\Debug\EXE_10_Parcelamento_Produto.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_10_Parcelamento_Produto\EXE_10_Parcelamento_Produto\bin\Debug\EXE_10_Parcelamento_Produto.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_10_Parcelamento_Produto\EXE_10_Parcelamento_Produto\bin\Debug\EXE_10_Parcelamento_Produto.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_10_Parcelamento_Produto\EXE_10_Parcelamento_Produto\obj\Debug\EXE_10_Parcelamento_Produto.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_10_Parcelamento_Produto\EXE_10_Parcelamento_Produto\obj\Debug\EXE_10_Parcelamento_Produto.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_10_Parcelamento_Produto\EXE_10_Parcelamento_Produto\obj\Debug\EXE_10_Parcelamento_Produto.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_10_Parcelamento_Produto\EXE_10_Parcelamento_Produto\obj\Debug\EXE_10_Parcelamento_Produto.pdb

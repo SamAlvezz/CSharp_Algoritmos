@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_09_Rendimento_Poupança\EXE_09_Rendimento_Poupança\bin\Debug\EXE_09_Rendimento_Poupança.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_09_Rendimento_Poupança\EXE_09_Rendimento_Poupança\bin\Debug\EXE_09_Rendimento_Poupança.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_09_Rendimento_Poupança\EXE_09_Rendimento_Poupança\bin\Debug\EXE_09_Rendimento_Poupança.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_09_Rendimento_Poupança\EXE_09_Rendimento_Poupança\obj\Debug\EXE_09_Rendimento_Poupança.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_09_Rendimento_Poupança\EXE_09_Rendimento_Poupança\obj\Debug\EXE_09_Rendimento_Poupança.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_09_Rendimento_Poupança\EXE_09_Rendimento_Poupança\obj\Debug\EXE_09_Rendimento_Poupança.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_09_Rendimento_Poupança\EXE_09_Rendimento_Poupança\obj\Debug\EXE_09_Rendimento_Poupança.pdb

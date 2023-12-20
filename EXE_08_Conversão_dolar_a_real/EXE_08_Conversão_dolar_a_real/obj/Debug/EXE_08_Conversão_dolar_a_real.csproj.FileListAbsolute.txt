@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_08_Conversão_dolar_a_real\EXE_08_Conversão_dolar_a_real\bin\Debug\EXE_08_Conversão_dolar_a_real.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_08_Conversão_dolar_a_real\EXE_08_Conversão_dolar_a_real\bin\Debug\EXE_08_Conversão_dolar_a_real.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_08_Conversão_dolar_a_real\EXE_08_Conversão_dolar_a_real\bin\Debug\EXE_08_Conversão_dolar_a_real.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_08_Conversão_dolar_a_real\EXE_08_Conversão_dolar_a_real\obj\Debug\EXE_08_Conversão_dolar_a_real.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_08_Conversão_dolar_a_real\EXE_08_Conversão_dolar_a_real\obj\Debug\EXE_08_Conversão_dolar_a_real.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_08_Conversão_dolar_a_real\EXE_08_Conversão_dolar_a_real\obj\Debug\EXE_08_Conversão_dolar_a_real.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_08_Conversão_dolar_a_real\EXE_08_Conversão_dolar_a_real\obj\Debug\EXE_08_Conversão_dolar_a_real.pdb

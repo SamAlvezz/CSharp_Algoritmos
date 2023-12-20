@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_02_Operações\EXE_02_Operações\bin\Debug\EXE_02_Operações.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_02_Operações\EXE_02_Operações\bin\Debug\EXE_02_Operações.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_02_Operações\EXE_02_Operações\bin\Debug\EXE_02_Operações.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_02_Operações\EXE_02_Operações\obj\Debug\EXE_02_Operações.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_02_Operações\EXE_02_Operações\obj\Debug\EXE_02_Operações.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_02_Operações\EXE_02_Operações\obj\Debug\EXE_02_Operações.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_02_Operações\EXE_02_Operações\obj\Debug\EXE_02_Operações.pdb

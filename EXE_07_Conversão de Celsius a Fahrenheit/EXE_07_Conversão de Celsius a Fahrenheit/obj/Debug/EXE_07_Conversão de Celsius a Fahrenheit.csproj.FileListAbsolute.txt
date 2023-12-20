@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_07_Conversão de Celsius a Fahrenheit\EXE_07_Conversão de Celsius a Fahrenheit\bin\Debug\EXE_07_Conversão de Celsius a Fahrenheit.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_07_Conversão de Celsius a Fahrenheit\EXE_07_Conversão de Celsius a Fahrenheit\bin\Debug\EXE_07_Conversão de Celsius a Fahrenheit.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_07_Conversão de Celsius a Fahrenheit\EXE_07_Conversão de Celsius a Fahrenheit\bin\Debug\EXE_07_Conversão de Celsius a Fahrenheit.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_07_Conversão de Celsius a Fahrenheit\EXE_07_Conversão de Celsius a Fahrenheit\obj\Debug\EXE_07_Conversão de Celsius a Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_07_Conversão de Celsius a Fahrenheit\EXE_07_Conversão de Celsius a Fahrenheit\obj\Debug\EXE_07_Conversão de Celsius a Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_07_Conversão de Celsius a Fahrenheit\EXE_07_Conversão de Celsius a Fahrenheit\obj\Debug\EXE_07_Conversão de Celsius a Fahrenheit.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos C# CORRETO\EXE_07_Conversão de Celsius a Fahrenheit\EXE_07_Conversão de Celsius a Fahrenheit\obj\Debug\EXE_07_Conversão de Celsius a Fahrenheit.pdb

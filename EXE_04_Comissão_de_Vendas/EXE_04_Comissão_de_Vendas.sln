@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXE_04_Comissão_de_Vendas", "EXE_04_Comissão_de_Vendas\EXE_04_Comissão_de_Vendas.csproj", "{8E947E3A-3B90-48C1-8145-618E32B65797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E947E3A-3B90-48C1-8145-618E32B65797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E947E3A-3B90-48C1-8145-618E32B65797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E947E3A-3B90-48C1-8145-618E32B65797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E947E3A-3B90-48C1-8145-618E32B65797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D7BFB0F-F628-4E46-9B76-2CAB78F7AFE0}
+	EndGlobalSection
+EndGlobal
