@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_13_Desconto\EXE_13_Desconto\bin\Debug\EXE_13_Desconto.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_13_Desconto\EXE_13_Desconto\bin\Debug\EXE_13_Desconto.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_13_Desconto\EXE_13_Desconto\bin\Debug\EXE_13_Desconto.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_13_Desconto\EXE_13_Desconto\obj\Debug\EXE_13_Desconto.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_13_Desconto\EXE_13_Desconto\obj\Debug\EXE_13_Desconto.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_13_Desconto\EXE_13_Desconto\obj\Debug\EXE_13_Desconto.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_13_Desconto\EXE_13_Desconto\obj\Debug\EXE_13_Desconto.pdb

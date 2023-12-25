@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_11_Sucessor_Antecessor\EXE_11_Sucessor_Antecessor\bin\Debug\EXE_11_Sucessor_Antecessor.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_11_Sucessor_Antecessor\EXE_11_Sucessor_Antecessor\bin\Debug\EXE_11_Sucessor_Antecessor.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_11_Sucessor_Antecessor\EXE_11_Sucessor_Antecessor\bin\Debug\EXE_11_Sucessor_Antecessor.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_11_Sucessor_Antecessor\EXE_11_Sucessor_Antecessor\obj\Debug\EXE_11_Sucessor_Antecessor.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_11_Sucessor_Antecessor\EXE_11_Sucessor_Antecessor\obj\Debug\EXE_11_Sucessor_Antecessor.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_11_Sucessor_Antecessor\EXE_11_Sucessor_Antecessor\obj\Debug\EXE_11_Sucessor_Antecessor.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_11_Sucessor_Antecessor\EXE_11_Sucessor_Antecessor\obj\Debug\EXE_11_Sucessor_Antecessor.pdb

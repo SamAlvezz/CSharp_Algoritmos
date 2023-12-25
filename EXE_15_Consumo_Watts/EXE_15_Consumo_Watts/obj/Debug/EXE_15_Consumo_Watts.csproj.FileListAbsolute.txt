@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_15_Consumo_Watts\EXE_15_Consumo_Watts\bin\Debug\EXE_15_Consumo_Watts.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_15_Consumo_Watts\EXE_15_Consumo_Watts\bin\Debug\EXE_15_Consumo_Watts.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_15_Consumo_Watts\EXE_15_Consumo_Watts\bin\Debug\EXE_15_Consumo_Watts.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_15_Consumo_Watts\EXE_15_Consumo_Watts\obj\Debug\EXE_15_Consumo_Watts.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_15_Consumo_Watts\EXE_15_Consumo_Watts\obj\Debug\EXE_15_Consumo_Watts.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_15_Consumo_Watts\EXE_15_Consumo_Watts\obj\Debug\EXE_15_Consumo_Watts.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_15_Consumo_Watts\EXE_15_Consumo_Watts\obj\Debug\EXE_15_Consumo_Watts.pdb

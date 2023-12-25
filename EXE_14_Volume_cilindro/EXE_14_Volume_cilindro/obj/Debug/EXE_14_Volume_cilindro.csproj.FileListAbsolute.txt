@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_14_Volume_cilindro\EXE_14_Volume_cilindro\bin\Debug\EXE_14_Volume_cilindro.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_14_Volume_cilindro\EXE_14_Volume_cilindro\bin\Debug\EXE_14_Volume_cilindro.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_14_Volume_cilindro\EXE_14_Volume_cilindro\bin\Debug\EXE_14_Volume_cilindro.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_14_Volume_cilindro\EXE_14_Volume_cilindro\obj\Debug\EXE_14_Volume_cilindro.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_14_Volume_cilindro\EXE_14_Volume_cilindro\obj\Debug\EXE_14_Volume_cilindro.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_14_Volume_cilindro\EXE_14_Volume_cilindro\obj\Debug\EXE_14_Volume_cilindro.exe
+C:\Users\samue\OneDrive\Área de Trabalho\Algoritmos_C#_01\EXE_14_Volume_cilindro\EXE_14_Volume_cilindro\obj\Debug\EXE_14_Volume_cilindro.pdb
